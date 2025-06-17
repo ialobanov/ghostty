@@ -11,7 +11,7 @@ vim $HOME/.config/ghostty/config
 ```ini
 term = xterm-256color
 
-theme = "Solarized Dark - Patched"
+theme = duckbones
 
 scrollback-limit = 10000
 
