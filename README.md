@@ -14,7 +14,7 @@ theme = duckbones
 scrollback-limit = 100000 # Number of lines stored in scrollback history
 
 background-opacity = 0.9
-background-blur-radius = 20 # Background blur (macOS only; ignored on Linux/Windows)
+background-blur-radius = 20
 
 font-family = "JetBrainsMono Nerd Font Mono"
 font-size = 24
