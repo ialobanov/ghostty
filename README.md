@@ -9,9 +9,8 @@ vim $HOME/.config/ghostty/config
 ```
 
 ```ini
-term = xterm-256color # Terminal type for compatibility with most CLI apps
+term = xterm-256color
 theme = duckbones
-scrollback-limit = 100000 # Number of lines stored in scrollback history
 
 background-opacity = 0.9
 background-blur-radius = 20
@@ -19,14 +18,14 @@ background-blur-radius = 20
 font-family = "JetBrainsMono Nerd Font Mono"
 font-size = 24
 
-window-padding-x = 20 # Horizontal padding inside the terminal window
+window-padding-x = 20
 
 
 shell-integration-features = no-cursor
-cursor-style = block              # Cursor shape
-cursor-color = "#FFC300"          # Hex color for the cursor
-cursor-style-blink = true         # Makes the cursor blink
+cursor-style = block
+cursor-color = "#FFC300"
+cursor-style-blink = true
 
-window-inherit-working-directory = false  # Always start new windows in the specified directory
+window-inherit-working-directory = false
 working-directory = "/Users/ivan"
 ```
