@@ -1,7 +1,7 @@
 # ghostty
 
 ```shell
-mkdir $HOME/.config/ghostty
+mkdir -p $HOME/.config/ghostty
 ```
 
 ```shell
