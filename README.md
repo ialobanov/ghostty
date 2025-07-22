@@ -6,9 +6,9 @@ mkdir -p $HOME/.config/ghostty && vim $HOME/.config/ghostty/config
 
 ```properties
 term = xterm-256color
-theme = duckbones
+theme = Chester
 
-background-opacity = 0.9
+background-opacity = 1
 background-blur-radius = 20
 
 font-family = "JetBrainsMono Nerd Font Mono"
