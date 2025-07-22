@@ -1,14 +1,10 @@
 # ghostty
 
 ```shell
-mkdir -p $HOME/.config/ghostty
+mkdir -p $HOME/.config/ghostty && vim $HOME/.config/ghostty/config
 ```
 
-```shell
-vim $HOME/.config/ghostty/config
-```
-
-```ini
+```properties
 term = xterm-256color
 theme = duckbones
 
