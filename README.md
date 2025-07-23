@@ -6,7 +6,7 @@ mkdir -p $HOME/.config/ghostty && vim $HOME/.config/ghostty/config
 
 ```properties
 term = xterm-256color
-theme = Chester
+theme = Whimsy
 
 background-opacity = 1
 background-blur-radius = 20
