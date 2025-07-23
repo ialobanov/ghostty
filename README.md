@@ -24,7 +24,7 @@ palette = 13=#aa7ff0
 palette = 14=#43c1be
 palette = 15=#ffffff
 background = #29283b
-foreground = #e6e6f7
+foreground = #ebebf5
 cursor-color = #b3b0d6
 cursor-text = #535178
 selection-background = #3d3c58
@@ -41,7 +41,7 @@ mkdir -p $HOME/.config/ghostty && vim $HOME/.config/ghostty/config
 term = xterm-256color
 theme = Whimsy-edited``
 
-background-opacity = 1
+background-opacity = 0.9
 background-blur-radius = 20
 
 font-family = "JetBrainsMono Nerd Font Mono"
