@@ -14,7 +14,7 @@ background-opacity = 0.95
 background-blur-radius = 20
 
 font-family = "JetBrainsMono Nerd Font Mono"
-font-size = 22
+font-size = 24
 
 window-padding-x = 20
 window-vsync = true
