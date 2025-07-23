@@ -28,7 +28,8 @@ foreground = #e6e6f7
 cursor-color = #b3b0d6
 cursor-text = #535178
 selection-background = #3d3c58
-selection-foreground = #
+selection-foreground = #ffffff
+```
 
 ## Configuration
 
@@ -59,7 +60,4 @@ window-inherit-working-directory = false
 working-directory = "home"
 
 macos-titlebar-style = tabs
-```
-
-ffffff
 ```
