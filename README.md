@@ -1,36 +1,5 @@
 # ghostty
 
-## Theme
-
-```shell
-sudo vim /Applications/Ghostty.app/Contents/Resources/ghostty/themes/Whimsy-edited
-```
-
-```properties
-palette = 0=#adadd9
-palette = 1=#ef6487
-palette = 2=#5eca89
-palette = 3=#FFC300
-palette = 4=#65aef7
-palette = 5=#aa7ff0
-palette = 6=#43c1be
-palette = 7=#ffffff
-palette = 8=#adadd9
-palette = 9=#ef6487
-palette = 10=#5eca89
-palette = 11=#FFC300
-palette = 12=#65aef7
-palette = 13=#aa7ff0
-palette = 14=#43c1be
-palette = 15=#ffffff
-background = #29283b
-foreground = #ebebf5
-cursor-color = #b3b0d6
-cursor-text = #535178
-selection-background = #3d3c58
-selection-foreground = #ffffff
-```
-
 ## Configuration
 
 ```shell
@@ -39,9 +8,9 @@ mkdir -p $HOME/.config/ghostty && vim $HOME/.config/ghostty/config
 
 ```properties
 term = xterm-256color
-theme = Whimsy-edited
+theme = Whimsy
 
-background-opacity = 0.94
+background-opacity = 0.93
 background-blur-radius = 20
 
 font-family = "JetBrainsMono Nerd Font Mono"
