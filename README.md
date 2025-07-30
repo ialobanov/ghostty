@@ -30,3 +30,9 @@ working-directory = "home"
 
 macos-titlebar-style = tabs
 ```
+
+Color for 3 & 11
+
+```shell
+zed /Applications/Ghostty.app/Contents/Resources/ghostty/themes/Whimsy
+```
