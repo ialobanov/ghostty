@@ -7,7 +7,8 @@ mkdir -p $HOME/.config/ghostty && vim $HOME/.config/ghostty/config
 ```
 
 ```properties
-term = xterm-256color
+
+term = ghostty
 theme = Whimsy
 shell-integration = zsh
 window-save-state = always
